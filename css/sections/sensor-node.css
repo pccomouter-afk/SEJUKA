@@ -26,7 +26,6 @@
     transform 0.9s var(--ease-out, cubic-bezier(0.16, 1, 0.3, 1));
 }
 
-
 .sejuka-sensor-media {
   position: relative;
   display: flex;
